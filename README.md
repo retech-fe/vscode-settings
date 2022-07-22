@@ -11,9 +11,9 @@
    !.vscode/global.code-snippets
    ```
 3. 文件说明
-   .vscode/extensions.json 扩展插件
-   .vscode/settings.json 配置项
-   vscode/global.code-snippets 代码提示 snippets
+   - .vscode/extensions.json 扩展插件
+   - .vscode/settings.json 配置项
+   - vscode/global.code-snippets 代码提示 snippets
 
 ## 参考
 
